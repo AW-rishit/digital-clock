@@ -1,4 +1,4 @@
-# digital-clock
+# Digital-clock
 A clean and responsive **Digital Clock** built using React. This project reinforces the use of `useEffect` for side effects and interval management, while showcasing functional components, state handling, and dynamic UI updates every second.
 
 🔗 **Live preview:** [here](https://digital-clock-ivory-nine.vercel.app/)
@@ -20,11 +20,11 @@ A clean and responsive **Digital Clock** built using React. This project reinfor
 
 ## Features
 
-**Live Time Update** – Displays current system time in HH:MM:SS AM/PM format.
-**React `useEffect` Hook** – Sets up a 1-second interval to update time, and cleans up on unmount.
-**State Management** – Uses `useState` to store the current time and trigger re-renders.
-**Time Formatting** – Adds leading zeros and handles 12-hour conversion with AM/PM.
-**Responsive UI** – Centered layout with CSS Flexbox and clean design.
+* **Live Time Update** – Displays current system time in HH:MM:SS AM/PM format.
+* **React `useEffect` Hook** – Sets up a 1-second interval to update time, and cleans up on unmount.
+* **State Management** – Uses `useState` to store the current time and trigger re-renders.
+* **Time Formatting** – Adds leading zeros and handles 12-hour conversion with AM/PM.
+* **Responsive UI** – Centered layout with CSS Flexbox and clean design.
 
 ## Summary
 
